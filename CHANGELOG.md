@@ -2,7 +2,14 @@
 
 All notable changes to this package are documented here. This project follows [Semantic Versioning](https://semver.org/).
 
-## 1.0.0 - Unreleased
+## 1.0.1 - Unreleased
+
+Package metadata only. No code or behavior changes.
+
+- Added the GitHub repository, homepage, issue tracker and author to `package.json`.
+- Added the copyright holder to `LICENSE`.
+
+## 1.0.0 - 2026-11-26
 
 First release.
 
