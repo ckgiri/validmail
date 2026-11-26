@@ -25,8 +25,9 @@
     "idn"
   ],
   "license": "MIT",
-  "author": "ckgiri",
-  "homepage": "https://github.com/ckgiri/validmail#readme",
+  "author": "CK Giri <ckgdev@gmail.com>",
+  "funding": "https://github.com/ckgiri/validmail?sponsor=1",
+  "homepage": "https://github.com/ckgiri/validmail",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ckgiri/validmail.git"
